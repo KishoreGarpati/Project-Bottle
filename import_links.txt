@@ -1,0 +1,3 @@
+prolific USB to serial driver installation with old version
+
+http://www.totalcardiagnostics.com/support/Knowledgebase/Article/View/92/20/prolific-usb-to-serial-fix-official-solution-to-code-10-error

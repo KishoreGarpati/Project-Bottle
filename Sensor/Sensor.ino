@@ -3,13 +3,13 @@
 
 //ADC_MODE(ADC_VCC);
 
-const char* ssid     = "....";
-const char* password = "....";
+const char* ssid     = "t3..";
+const char* password = "worldcup@15";
 //const char* ssid     = "MotoG3";
 //const char* password = "badrobot";
 char path[] = "/ws";
 char host[] = "192.168.0.116";
-  
+
 WebSocketClient webSocketClient;
 
 // Use WiFiClient class to create TCP connections
